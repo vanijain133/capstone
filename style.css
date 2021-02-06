@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.nav-bar12345{
+    background-color: black; 
+    color: white;
+    text-decoration:none;
+    height: 200px;
+    padding: 15px;
+    display: inline-block;
+    
+
+     
+   
+}
+body{
+ background-image: url(https://media.nationalgeographic.org/assets/photos/239/748/b45dce32-21f4-4646-99d0-2057f6a12e49.jpg);
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
